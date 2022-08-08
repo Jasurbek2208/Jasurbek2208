@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <title>Nmadir</title>
+  </head>
+  <body>
+    <div class="line"></div>
+    <!-- LIGHT -->
+    <div class="light">
+      <span></span>
+      <span></span>
+    </div>
+
+    <!-- LIGHT BUTTON -->
+    <div class="lightBtn">
+      <span id="btnOn" class="On" onclick="lightOnClick()"></span>
+      <span id="btnOff" onclick="lightOffClick()"></span>
+    </div>
+    <div class="lighting-shadow"></div>
+    <div class="lightingBig-shadow"></div>
+  </body>
+
+  <script>
+    let body = document.getElementsByTagName("body")
+    let light = document.getElementsByClassName("light");
+    let lightingShadow = document.getElementsByClassName("lighting-shadow");
+    let lightingBigShadow = document.getElementsByClassName("lightingBig-shadow");
+    let btnOn = document.getElementById("btnOn");
+    let btnOff = document.getElementById("btnOff");
+
+    function lightOnClick() {
+      btnOff.classList.add("On");
+      btnOn.classList.remove("On");
+
+      light[0].classList.add("On");
+      lightingShadow[0].classList.add("On");
+      lightingBigShadow[0].classList.add("On");
+      body[0].classList.add("On");
+    }
+    function lightOffClick() {
+      btnOn.classList.add("On");
+      btnOff.classList.remove("On");
+
+      light[0].classList.remove("On");
+      lightingShadow[0].classList.remove("On");
+      lightingBigShadow[0].classList.remove("On");
+      body[0].classList.remove("On");
+    }
+  </script>
+</html>
