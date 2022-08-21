@@ -2,165 +2,169 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  user-select: none;
+  -moz-user-select: none;
+}
+
+/* Disable the blue clicking effect */
+button,
+button:focus,
+button:active,
+a:focus,
+a:active,
+img,
+img:focus,
+img:active,
+i,
+div {
+  -webkit-tap-highlight-color: transparent !important;
 }
 
 body {
   height: 100vh;
-  background-color: #0f0f0f;
-  position: relative;
+  background-color: #1a1a1a;
   display: flex;
   align-items: center;
   justify-content: center;
-  transition: background-color 1s;
+  position: relative;
+  transition: background-color 1s ease;
 }
 body.On {
-  background-color: #3b3b3b;
+  background-color: #3c3c3c;
 }
 
+/* === Lamp Post Line === */
 .line {
   height: 50%;
-  width: 6px;
+  width: 8px;
   position: absolute;
   top: 0;
-  border: 1px solid rgba(10, 10, 10, 0.493);
-  border-radius: 2px;
-  background-color: #fcfcfc;
+  background: linear-gradient(to bottom, #555, #ccc, #555);
+  border-radius: 4px;
+  box-shadow: inset 0 0 2px #000;
 }
 
+/* === Light Bulb === */
 .light {
   width: 200px;
   height: 200px;
-  position: relative;
-  background-color: #fcfcfc;
+  background: radial-gradient(circle, #fff 60%, #e0e0e0);
   border-radius: 50%;
-  transform: scale(50%);
-  box-shadow: 0 0 0px 0px rgba(255, 230, 120, 0);
-  transition: box-shadow 0.8s;
+  box-shadow: 0 0 0 0 rgba(255, 215, 100, 0);
+  position: relative;
+  transition: box-shadow 1s ease, outline 1s ease;
 }
 .light.On {
-  outline: 5px solid rgba(255, 230, 120, 0.842);
-  box-shadow: 0 0 10px 10px rgb(255, 230, 120);
+  box-shadow: 0 0 40px 20px rgba(255, 215, 100, 0.8);
+  outline: 6px solid rgba(255, 215, 100, 0.5);
 }
+
 .light::before {
   content: "";
   position: absolute;
-  top: -10px;
+  top: -20px;
   left: 50%;
-  transform: translate(-50%, -50%);
-  width: 100px;
-  height: 200px;
-  background-color: #fcfcfc;
-  border-radius: 30%;
+  transform: translateX(-50%);
+  width: 60px;
+  height: 30px;
+  background: #aaa;
+  border-radius: 10px;
+  box-shadow: inset 0 1px 3px #666;
 }
-.light span:nth-of-type(1) {
-  position: absolute;
-  top: 0px;
-  left: 8px;
-  width: 100px;
-  height: 60px;
-  background-color: #fcfcfc;
-  border-bottom-left-radius: 70px;
-  transform: rotate(-63deg);
-}
+
+/* Bulb arms */
+.light span:nth-of-type(1),
 .light span:nth-of-type(2) {
   position: absolute;
-  top: 0px;
-  right: 8px;
-  width: 100px;
-  height: 60px;
-  background-color: #fcfcfc;
-  border-bottom-right-radius: 70px;
-  transform: rotate(63deg);
+  top: 0;
+  width: 60px;
+  height: 30px;
+  background-color: #e8e8e8;
+}
+.light span:nth-of-type(1) {
+  left: 0;
+  border-bottom-left-radius: 60px;
+  transform: rotate(-50deg);
+}
+.light span:nth-of-type(2) {
+  right: 0;
+  border-bottom-right-radius: 60px;
+  transform: rotate(50deg);
 }
 
-.lighting-shadow {
-  position: absolute;
-  box-shadow: 0 0 0px 0px rgba(255, 230, 120, 0);
-  transition: 0.4s;
-}
-.lighting-shadow.On {
-  position: absolute;
-  box-shadow: 0 0 100px 60px rgb(255, 230, 120);
-}
+/* === Lighting Shadows === */
+.lighting-shadow,
 .lightingBig-shadow {
   position: absolute;
-  box-shadow: 0 0 1000px 100px rgba(255, 230, 120, 0);
-  transition: 0.5s;
+  pointer-events: none;
+  transition: all 0.5s ease;
+}
+.lighting-shadow {
+  box-shadow: 0 0 0 0 rgba(255, 230, 120, 0);
+}
+.lighting-shadow.On {
+  box-shadow: 0 0 80px 40px rgba(255, 230, 120, 0.7);
+}
+.lightingBig-shadow {
+  box-shadow: 0 0 0 0 rgba(255, 230, 120, 0);
 }
 .lightingBig-shadow.On {
-  position: absolute;
-  box-shadow: 0 0 1000px 100px rgb(255, 230, 120);
+  box-shadow: 0 0 500px 100px rgba(255, 230, 120, 0.3);
 }
 
-/* LIGHT BUTTON */
+/* === Light Switch Box === */
 .lightBtn {
   position: absolute;
-  bottom: 50px;
-  right: 50px;
-  width: 210px;
+  bottom: 60px;
+  right: 60px;
+  width: 220px;
   height: 120px;
   border-radius: 40px;
-  background-color: #fcfcfc;
+  background: linear-gradient(to top, #ddd, #eee);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+  border: 2px solid #999;
+  overflow: hidden;
 }
 .lightBtn::before {
   content: "";
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 90%;
-  height: 90%;
-  border-radius: 40px;
-  border: 1px solid rgb(0, 0, 0);
-  background: linear-gradient(
-    20deg,
-    rgb(29, 29, 29),
-    rgba(180, 180, 180, 0.897),
-    rgb(29, 29, 29)
-  );
+  inset: 10px;
+  border-radius: 30px;
+  background: linear-gradient(to bottom, #444, #ccc, #444);
+  box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.5);
 }
 
+/* === Button Toggles === */
 .lightBtn span {
-  cursor: pointer;
   position: absolute;
   top: 50%;
-  left: 5%;
-  transform: translateY(-50%);
   width: 45%;
-  height: 90%;
-  border: 1px solid rgb(29, 29, 29);
-  border-top-left-radius: 40%;
-  border-bottom-left-radius: 40%;
-  background: linear-gradient(
-    90deg,
-    rgb(128, 128, 128),
-    rgba(236, 236, 236, 0.897),
-    rgb(128, 128, 128)
-  );
+  height: 80%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  background: linear-gradient(to right, #aaa, #eee, #aaa);
+  box-shadow: inset 0 2px 3px rgba(255, 255, 255, 0.3), 0 2px 5px rgba(0, 0, 0, 0.4);
+  transition: all 0.3s ease;
 }
 
-.lightBtn span:nth-of-type(2) {
+#btnOn {
+  left: 5%;
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
+}
+#btnOff {
   right: 5%;
-  left: auto;
-  border-radius: 0%;
-  border-top-right-radius: 40px;
-  border-bottom-right-radius: 40px;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
 }
 
-.lightBtn #btnOn.On {
-  width: 40%;
+#btnOn.On {
   left: 10%;
-  top: 49%;
-  transform: translateY(-50%);
-  border-top-left-radius: 35%;
-  border-bottom-left-radius: 50%;
-}
-
-.lightBtn #btnOff.On {
   width: 40%;
+  background: linear-gradient(to right, #66bb6a, #a5d6a7);
+}
+#btnOff.On {
   right: 10%;
-  top: 49%;
-  transform: translateY(-50%);
-  border-top-right-radius: 35%;
-  border-bottom-right-radius: 50%;
+  width: 40%;
+  background: linear-gradient(to left, #ef5350, #ef9a9a);
 }
