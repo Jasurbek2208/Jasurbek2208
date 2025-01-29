@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Jasurbek Shomaqsudov!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jasurbek2208)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Jasurbek2208)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 I’m a **Frontend Developer**, **Full-Stack Engineer**, and aspiring **Team Leader** from Uzbekistan. I specialize in creating dynamic, user-friendly, and efficient web applications. I thrive on clean, modern code and turning creative ideas into reality.
 
