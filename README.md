@@ -26,7 +26,7 @@ I’m a **Frontend Developer**, **Full-Stack Engineer**, and aspiring **Team Lea
 - 💼 [Linkedin](https://www.linkedin.com/in/jasurbek-shomaqsudov)
 - 💬 [Telegram](https://t.me/Joni2208)
 - 💡 [Telegram Channel](https://t.me/JasurbekFrontend)
-- 📰 [X](https://x.com/JShomaqsudov)
+<!-- - 📰 [X](https://x.com/JShomaqsudov) -->
 
 ---
 
