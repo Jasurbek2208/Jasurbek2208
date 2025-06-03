@@ -20,9 +20,13 @@ I’m a **Frontend Developer**, **Full-Stack Engineer**, and aspiring **Team Lea
 - ⚡ **Fun Fact**: I started programming in 2022 and have been pushing boundaries ever since!  
 
 ## 📫 Connect with Me  
-- 🌐 [Website](https://shomaqsudov.uz)  
-- 💼 [GitHub](https://github.com/Jasurbek2208)  
-- 💬 [Telegram](https://t.me/Joni2208)  
+- 🌐 [Website](https://shomaqsudov.uz)
+- 💼 [GitHub](https://github.com/Jasurbek2208)
+- 📦 [NPMjs](https://www.npmjs.com/~jasurbek2208)
+- 💼 [Linkedin](https://www.linkedin.com/in/jasurbek-shomaqsudov)
+- 💬 [Telegram](https://t.me/Joni2208)
+- 💡 [Telegram Channel](https://t.me/JasurbekFrontend)
+- 📰 [X](https://x.com/JShomaqsudov)
 
 ---
 
