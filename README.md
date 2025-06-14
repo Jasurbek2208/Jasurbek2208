@@ -1,34 +1,50 @@
-# 👋 Hello, I'm Jasurbek Shomaqsudov!
+# ✨ Jasurbek Shomaqsudov — Software Engineer from Uzbekistan
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Jasurbek2208)](https://github.com/ryo-ma/github-profile-trophy) -->
+> *“The Force will be with you. Always — especially when you write clean code.”*
 
-I’m a **Frontend Developer**, **Full-Stack Engineer**, and aspiring **Team Leader** from Uzbekistan. I specialize in creating dynamic, user-friendly, and efficient web applications. I thrive on clean, modern code and turning creative ideas into reality.
+<!-- [![Trophies](https://github-profile-trophy.vercel.app/?username=Jasurbek2208)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+Greetings, traveler of the digital galaxy 👨‍💻  
+I’m **Jasurbek Shomaqsudov**, a **Frontend Jedi**, aspiring **Team Leader**, and seasoned **Full-Stack Engineer** from Uzbekistan.  
+I architect scalable systems, design intuitive UI, and bring high-performing applications to life — faster than a Kessel Run.
 
 ---
 
-## 🚀 About Me  
-- 🖥️ **Languages & Tools**:  
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-  ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)  
-  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-  ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)  
+## 🚀 Mission Briefing
 
-- 🌐 Building complex **ERP systems** with dynamic solutions.  
-- 🛠️ Currently focusing on **team leadership** and **DevOps**, while growing my **full-stack development** expertise.  
-- ⚡ **Fun Fact**: I started programming in 2022 and have been pushing boundaries ever since!  
+- 🧩 Engineering **modular ERP systems** with cutting-edge performance  
+- 📦 Building clean, maintainable, and reusable full-stack components  
+- 🧑‍🚀 Currently advancing my skills in **DevOps**, **Team Leadership**, and system architecture  
+- ⚡️ Fun Fact: I joined the coding force in **2022** — and never looked back
 
-## 📫 Connect with Me  
-- 🌐 [Website](https://shomaqsudov.uz)
+---
+
+## 📡 Connect Across the Systems
+
+> *“Communication is the key to surviving any galactic mission.”*
+
+- 🌐 [Personal Website](https://shomaqsudov.uz)
 - 💼 [GitHub](https://github.com/Jasurbek2208)
-- 📦 [NPMjs](https://www.npmjs.com/~jasurbek2208)
-- 💼 [Linkedin](https://www.linkedin.com/in/jasurbek-shomaqsudov)
-- 💬 [Telegram](https://t.me/Joni2208)
+- 📦 [NPM Profile](https://www.npmjs.com/~jasurbek2208)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jasurbek-shomaqsudov)
+- 💬 [Telegram Profile](https://t.me/Joni2208)
 - 💡 [Telegram Channel](https://t.me/JasurbekFrontend)
-<!-- - 📰 [X](https://x.com/JShomaqsudov) -->
+- 📚 [Coursera Profile](https://www.coursera.org/learner/jasurbek)
+- 🐦 [X (Twitter)](https://x.com/JShomaqsudov)
+- 🧵 [Threads](https://www.threads.com/@jasurbek_shomaqsudov)
+- 🗑 [Instagram](https://www.instagram.com/jasurbek_shomaqsudov/)
 
 ---
 
-## 🌟 Need a Work?  
-Contact me to join my team and work with me. Let’s build something amazing together! [Google Form](https://forms.gle/ACQteTNh1Q1vu4h19)
+## 🌟 Join the Crew
+
+> *"In every galaxy, teamwork wins wars — and builds the best software."*
+
+I'm always on the lookout for talented allies. If you’re a developer or designer, consider joining forces with me:
+
+🔗 [Apply Here](https://forms.gle/ACQteTNh1Q1vu4h19)
+
+---
+
+> *"Code like a Jedi, deploy like a Sith."*  
+— Jasurbek out.
