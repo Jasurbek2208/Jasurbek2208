@@ -24,6 +24,7 @@ I architect scalable systems, design intuitive UI, and bring high-performing app
 > *“Communication is the key to surviving any galactic mission.”*
 
 - 🌐 [Personal Website](https://shomaqsudov.uz)
+- 🧾 [Patreon](https://patreon.com/Jasurbek_Shomaqsudov)
 - 💼 [GitHub](https://github.com/Jasurbek2208)
 - 📦 [NPM Profile](https://www.npmjs.com/~jasurbek2208)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jasurbek-shomaqsudov)
@@ -33,6 +34,7 @@ I architect scalable systems, design intuitive UI, and bring high-performing app
 - 🐦 [X (Twitter)](https://x.com/JShomaqsudov)
 - 🧵 [Threads](https://www.threads.com/@jasurbek_shomaqsudov)
 - 🗑 [Instagram](https://www.instagram.com/jasurbek_shomaqsudov/)
+- 📍 [Signal](https://signal.me/#eu/3MZIiuLxtTDjTmiz2XYqwMaIFH0k8c4QYmXcowmHUqrFpONkPAFLhr1Lkt5nqQre)
 
 ---
 
