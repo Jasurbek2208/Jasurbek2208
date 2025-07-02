@@ -1,12 +1,20 @@
-# Jasurbek Shomaqsudov — Software Engineer from Uzbekistan 
+<!--
+  📢 GitHub Profile README
+  🌐 SEO-optimizatsiya: "Jasurbek Shomaqsudov", "Jasurbek", "Shomaqsudov Jasurbek", "Shomaqsudov Jasur", "Jasur Shomaqsudov", "Frontend Developer Uzbekistan", "Full-Stack Engineer"
+-->
+<!-- # Jasurbek Shomaqsudov — Software Engineer from Uzbekistan -->
 
-I’m **Jasurbek Shomaqsudov**, a **Frontend Jedi**, aspiring **Team Leader**, and seasoned **Full-Stack Engineer** from Uzbekistan.  
-I architect scalable systems, design intuitive UI, and bring high-performing applications to life — faster than a Kessel Run.
+# Jasurbek Shomaqsudov  
+### Software Engineer • Frontend Jedi
+📍 Tashkent, Uzbekistan | 🌐 [shomaqsudov.uz](https://shomaqsudov.uz)  
 
 > *“The Force will be with you. Always — especially when you write clean code.”*
 
 <!-- [![Trophies](https://github-profile-trophy.vercel.app/?username=Jasurbek2208)](https://github.com/ryo-ma/github-profile-trophy) -->
 
+
+I’m **Jasurbek Shomaqsudov**, a **Frontend Jedi**, aspiring **Team Leader**, and seasoned **Full-Stack Engineer** from Uzbekistan.  
+I architect scalable systems, design intuitive UI, and bring high-performing applications to life — faster than a Kessel Run.
 
 ---
 
@@ -23,18 +31,20 @@ I architect scalable systems, design intuitive UI, and bring high-performing app
 
 > *“Communication is the key to surviving any galactic mission.”*
 
-- 🌐 [Personal Website](https://shomaqsudov.uz)
-- 🧾 [PATREON](https://patreon.com/Jasurbek_Shomaqsudov)
-- 💼 [GitHub](https://github.com/Jasurbek2208)
-- 📦 [NPM Profile](https://www.npmjs.com/~jasurbek2208)
-- 💼 [LinkedIn](https://www.linkedin.com/in/jasurbek-shomaqsudov)
-- 💬 [Telegram Profile](https://t.me/Joni2208)
-- 💡 [Telegram Channel](https://t.me/JasurbekFrontend)
-- 📚 [Coursera Profile](https://www.coursera.org/learner/jasurbek)
-- 🐦 [X (Twitter)](https://x.com/JShomaqsudov)
-- 🧵 [Threads](https://www.threads.com/@jasurbek_shomaqsudov)
-- 🗑 [Instagram](https://www.instagram.com/jasurbek_shomaqsudov/)
-- 📍 [Signal](https://signal.me/#eu/3MZIiuLxtTDjTmiz2XYqwMaIFH0k8c4QYmXcowmHUqrFpONkPAFLhr1Lkt5nqQre)
+| Platform         | Link                                                              |
+|------------------|-------------------------------------------------------------------|
+| 🌐 Personal Website       | [shomaqsudov.uz](https://shomaqsudov.uz)                           |
+| 🧾 PATREON           | [Jasurbek_Shomaqsudov](https://patreon.com/Jasurbek_Shomaqsudov)               |
+| 💼 GitHub        | [Jasurbek2208](https://github.com/Jasurbek2208)                   |
+| 📦 NPM           | [~jasurbek2208](https://www.npmjs.com/~jasurbek2208)               |
+| 💼 LinkedIn      | [jasurbek-shomaqsudov](https://www.linkedin.com/in/jasurbek-shomaqsudov) |
+| 💬 Telegram Profile      | [@Joni2208](https://t.me/Joni2208)                                 |
+| 💡 Telegram Channel      | [@JasurbekFrontend](https://t.me/JasurbekFrontend)                                 |
+| 🐦 X (Twitter)   | [@JShomaqsudov](https://x.com/JShomaqsudov)                        |
+| 📚 Coursera Profile   | [jasurbek](https://www.coursera.org/learner/jasurbek)                        |
+| 🧵 Threads   | [@jasurbek_shomaqsudov](https://www.threads.com/@jasurbek_shomaqsudov)                        |
+| 🗑 Instagram   | [jasurbek_shomaqsudov](https://www.instagram.com/jasurbek_shomaqsudov)                        |
+| 📍 Signal   | [Jasurbek.2208](https://signal.me/#eu/3MZIiuLxtTDjTmiz2XYqwMaIFH0k8c4QYmXcowmHUqrFpONkPAFLhr1Lkt5nqQre)                        |
 
 ---
 
