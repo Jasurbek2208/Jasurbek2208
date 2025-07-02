@@ -1,12 +1,12 @@
-# ✨ Jasurbek Shomaqsudov — Software Engineer from Uzbekistan
+# Jasurbek Shomaqsudov — Software Engineer from Uzbekistan 
+
+I’m **Jasurbek Shomaqsudov**, a **Frontend Jedi**, aspiring **Team Leader**, and seasoned **Full-Stack Engineer** from Uzbekistan.  
+I architect scalable systems, design intuitive UI, and bring high-performing applications to life — faster than a Kessel Run.
 
 > *“The Force will be with you. Always — especially when you write clean code.”*
 
 <!-- [![Trophies](https://github-profile-trophy.vercel.app/?username=Jasurbek2208)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-Greetings, traveler of the digital galaxy 👨‍💻  
-I’m **Jasurbek Shomaqsudov**, a **Frontend Jedi**, aspiring **Team Leader**, and seasoned **Full-Stack Engineer** from Uzbekistan.  
-I architect scalable systems, design intuitive UI, and bring high-performing applications to life — faster than a Kessel Run.
 
 ---
 
