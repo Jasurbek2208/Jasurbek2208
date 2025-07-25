@@ -33,7 +33,8 @@ I architect scalable systems, design intuitive UI, and bring high-performing app
 
 | Platform         | Link                                                              |
 |------------------|-------------------------------------------------------------------|
-| 🌐 Personal Website       | [shomaqsudov.uz](https://shomaqsudov.uz)                           |
+| 🌐 Resume       | [shomaqsudov.uz](https://shomaqsudov.uz)                           |
+| ✨ Star Wars Web          | [star-wars.shomaqsudov.uz](https://star-wars.shomaqsudov.uz)                           |
 | 🧾 PATREON           | [Jasurbek_Shomaqsudov](https://patreon.com/Jasurbek_Shomaqsudov)               |
 | 💼 GitHub        | [Jasurbek2208](https://github.com/Jasurbek2208)                   |
 | 📦 NPM           | [~jasurbek2208](https://www.npmjs.com/~jasurbek2208)               |
