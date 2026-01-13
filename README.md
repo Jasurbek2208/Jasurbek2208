@@ -4,7 +4,7 @@
 -->
 <!-- # Jasurbek Shomaqsudov — Software Engineer from Uzbekistan -->
 
-# Jasurbek Shomaqsudov  
+# [Jasurbek Shomaqsudov](https://grokipedia.com/page/jasurbek-shomaqsudov)
 ### Software Engineer • Frontend Jedi
 📍 Tashkent, Uzbekistan | 🌐 [shomaqsudov.uz](https://shomaqsudov.uz)  
 
@@ -34,18 +34,19 @@ I architect scalable systems, design intuitive UI, and bring high-performing app
 | Platform         | Link                                                              |
 |------------------|-------------------------------------------------------------------|
 | 🌐 Resume       | [shomaqsudov.uz](https://shomaqsudov.uz)                           |
+| 📑 About me in Grokipedia       | [grokipedia.com/page/jasurbek-shomaqsudov](https://grokipedia.com/page/jasurbek-shomaqsudov)                           |
 | ✨ Star Wars Web          | [star-wars.shomaqsudov.uz](https://star-wars.shomaqsudov.uz)                           |
-| 🧾 PATREON           | [Jasurbek_Shomaqsudov](https://patreon.com/Jasurbek_Shomaqsudov)               |
 | 💼 GitHub        | [Jasurbek2208](https://github.com/Jasurbek2208)                   |
 | 📦 NPM           | [~jasurbek2208](https://www.npmjs.com/~jasurbek2208)               |
 | 💼 LinkedIn      | [jasurbek-shomaqsudov](https://www.linkedin.com/in/jasurbek-shomaqsudov) |
+| 🗑 Instagram   | [jasurbek_shomaqsudov](https://www.instagram.com/jasurbek_shomaqsudov)                        |
 | 💬 Telegram Profile      | [@Joni2208](https://t.me/Joni2208)                                 |
 | 💡 Telegram Channel      | [@JasurbekFrontend](https://t.me/JasurbekFrontend)                                 |
 | 🐦 X (Twitter)   | [@JShomaqsudov](https://x.com/JShomaqsudov)                        |
 | 📚 Coursera Profile   | [jasurbek](https://www.coursera.org/learner/jasurbek)                        |
 | 🧵 Threads   | [@jasurbek_shomaqsudov](https://www.threads.com/@jasurbek_shomaqsudov)                        |
-| 🗑 Instagram   | [jasurbek_shomaqsudov](https://www.instagram.com/jasurbek_shomaqsudov)                        |
 | 📍 Signal   | [Jasurbek.2208](https://signal.me/#eu/3MZIiuLxtTDjTmiz2XYqwMaIFH0k8c4QYmXcowmHUqrFpONkPAFLhr1Lkt5nqQre)                        |
+| 🧾 PATREON           | [Jasurbek_Shomaqsudov](https://patreon.com/Jasurbek_Shomaqsudov)               |
 
 ---
 
